@@ -58,6 +58,7 @@ function App() {
     setPhase('pending')
   }
 
+  // ...
   return (
 
     <div>
